@@ -1,6 +1,8 @@
 # CycleTraffic
 ## Automation of CycleGAN to process incoming images
 
+sudo apt-get install inotify-tools
+
 cd <path/to/CycleGAN>
 
 git clone https://github.com/HeinzBenjamin/CycleTraffic/
