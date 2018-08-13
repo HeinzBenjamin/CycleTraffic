@@ -1,7 +1,7 @@
 # CycleTraffic
 ## Automation of CycleGAN to process incoming images
 
-cd <path/to/directory/where/CycleGAN/is/sitting>
+cd <path/to/CycleGAN>
 
 git clone https://github.com/HeinzBenjamin/CycleTraffic/
 
